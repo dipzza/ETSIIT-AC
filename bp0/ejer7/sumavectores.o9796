@@ -1,0 +1,17 @@
+Id. usuario del trabajo: D1estudiante3
+Id.  del trabajo: 9796.atcgrid
+Nombre  del trabajo especificado por usuario: sumavectores
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante3/bp0/ejer7
+Directorio de trabajo: /home/D1estudiante3
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid1
+Tamaño Vectores:65536 (4 B)
+Tiempo:0.000468649	 / Tamaño Vectores:65536	/ V1[0]+V2[0]=V3[0](6553.600000+6553.600000=13107.200000) / / V1[65535]+V2[65535]=V3[65535](13107.100000+0.100000=13107.200000) /
+Tamaño Vectores:131072 (4 B)
+Tiempo:0.000949366	 / Tamaño Vectores:131072	/ V1[0]+V2[0]=V3[0](13107.200000+13107.200000=26214.400000) / / V1[131071]+V2[131071]=V3[131071](26214.300000+0.100000=26214.400000) /
+Tamaño Vectores:262144 (4 B)
+Tiempo:0.001903477	 / Tamaño Vectores:262144	/ V1[0]+V2[0]=V3[0](26214.400000+26214.400000=52428.800000) / / V1[262143]+V2[262143]=V3[262143](52428.700000+0.100000=52428.800000) /
+Tamaño Vectores:524288 (4 B)
+Tiempo:0.002880275	 / Tamaño Vectores:524288	/ V1[0]+V2[0]=V3[0](52428.800000+52428.800000=104857.600000) / / V1[524287]+V2[524287]=V3[524287](104857.500000+0.100000=104857.600000) /

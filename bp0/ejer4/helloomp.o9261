@@ -1,0 +1,20 @@
+Id. usuario del trabajo: D1estudiante3
+Id.  del trabajo: 9261.atcgrid
+Nombre  del trabajo especificado por usuario: helloomp
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante3/bp0/ejer4
+Directorio de trabajo: /home/D1estudiante3
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid1
+Nº de threads inicial: 12
+Directorio de trabajo: /home/D1estudiante3/bp0/ejer4
+
+1.Para 12 threads:
+(0:!!!Hello)(0: world!!!)(1:!!!Hello)(1: world!!!)(6:!!!Hello)(6: world!!!)(8:!!!Hello)(8: world!!!)(2:!!!Hello)(2: world!!!)(5:!!!Hello)(5: world!!!)(7:!!!Hello)(7: world!!!)(11:!!!Hello)(11: world!!!)(3:!!!Hello)(3: world!!!)(10:!!!Hello)(10: world!!!)(9:!!!Hello)(9: world!!!)(4:!!!Hello)(4: world!!!)
+1.Para 6 threads:
+(0:!!!Hello)(0: world!!!)(1:!!!Hello)(1: world!!!)(2:!!!Hello)(2: world!!!)(5:!!!Hello)(5: world!!!)(3:!!!Hello)(3: world!!!)(4:!!!Hello)(4: world!!!)
+1.Para 3 threads:
+(1:!!!Hello)(1: world!!!)(0:!!!Hello)(0: world!!!)(2:!!!Hello)(2: world!!!)
+1.Para 1 threads:
+(0:!!!Hello)(0: world!!!)

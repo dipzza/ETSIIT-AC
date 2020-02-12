@@ -1,0 +1,19 @@
+Id. usuario del trabajo: D1estudiante3
+Id.  del trabajo: 9203.atcgrid
+Nombre  del trabajo especificado por usuario: helloomp
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante3/bp0/ejer4
+Directorio de trabajo: /home/D1estudiante3
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid1
+Nº de threads inicial: 12
+Directorio de trabajo: /home/D1estudiante3/bp0/ejer4
+
+1.Para 12 threads:
+
+1.Para 6 threads:
+
+1.Para 3 threads:
+
+1.Para 1 threads:

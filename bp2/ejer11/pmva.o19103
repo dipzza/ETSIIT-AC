@@ -1,0 +1,81 @@
+Id. usuario del trabajo: D1estudiante3
+Id.  del trabajo: 19103.atcgrid
+Nombre  del trabajo especificado por usuario: pmva
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante3/bp2/ejer11
+Directorio de trabajo: /home/D1estudiante3
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid1
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.141705980	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:1
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:4.371753426	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:1
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.071225393	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:2
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:1.801869105	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:2
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.055004085	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:3
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:1.915379832	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:3
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.040368908	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:4
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:1.126014442	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:4
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.038106391	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:5
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:1.556509200	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:5
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.040707204	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:6
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:1.301247890	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:6
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.035930474	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:7
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.908714239	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:7
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.031222755	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:8
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.859840993	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:8
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.030955561	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:9
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.994682253	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:9
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.033699670	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:10
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.840814826	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:10
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.033459187	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:11
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.814561904	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:11
+Tamaño Matriz:10000 x 10000 (4 B)
+Tiempo:0.028098424	 / Tamaño columnas:10000	/ V2[0] = 14999500000.000000 / / V2[9999] = 29997500050.000000 /
+Cores:12
+Tamaño Matriz:50000 x 50000 (4 B)
+Tiempo:0.786168831	 / Tamaño columnas:50000	/ V2[0] = 1874987500000.000000 / / V2[49999] = 3749937500249.999512 /
+Cores:12
